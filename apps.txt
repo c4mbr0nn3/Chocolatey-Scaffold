@@ -1,0 +1,14 @@
+dbeaver
+docker-desktop
+filezilla
+hugo-extended 0.119.0
+localsend
+make
+nvm
+openvpn-connect
+PartitionMasterFree
+tabby
+thunderbird
+treesizefree
+vlc
+winscp
