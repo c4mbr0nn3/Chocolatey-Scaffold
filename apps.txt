@@ -12,3 +12,7 @@ thunderbird
 treesizefree
 vlc
 winscp
+firefox
+7zip
+spotify
+obsidian
